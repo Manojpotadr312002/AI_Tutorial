@@ -1,1 +1,18 @@
-Artificial Intelligence (AI) refers to the simulation of human intelligence in machines which helps in allowing them to think and act like humans. It involves creating algorithms and systems that can perform tasks which requiring human abilities such as visual perception, speech recognition, decision-making and language translation.
+Artificial Intelligence (AI) refers to the simulation of human intelligence in machines which helps in allowing them to think and act like humans. 
+It involves creating algorithms and systems that can perform tasks which requiring human abilities such as visual perception, speech recognition, decision-making and language translation.
+
+Types of Artificial Intelligence
+Artificial Intelligence (AI) has transformed industries, leading to significant advancements in technology, science, and everyday life. To understand AI better, we must first recognize that AI can be categorized into different types based on capabilities and functionalities.
+
+Type 1: Based on Capabilities of AI
+
+Narrow AI
+General AI
+Super AI
+Type 2: Based on the Functionality of AI
+
+Reactive Machines
+Limited Memory AI
+Theory of Mind
+Self-Aware AI
+
