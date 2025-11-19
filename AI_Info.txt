@@ -1,7 +1,7 @@
 Artificial Intelligence (AI) refers to the simulation of human intelligence in machines which helps in allowing them to think and act like humans. 
 It involves creating algorithms and systems that can perform tasks which requiring human abilities such as visual perception, speech recognition, decision-making and language translation.
 
-Types of Artificial Intelligence
+*** Types of Artificial Intelligence
 Artificial Intelligence (AI) has transformed industries, leading to significant advancements in technology, science, and everyday life. To understand AI better, we must first recognize that AI can be categorized into different types based on capabilities and functionalities.
 
 Type 1: Based on Capabilities of AI
@@ -16,7 +16,8 @@ Limited Memory AI
 Theory of Mind
 Self-Aware AI
 
-Types of AI Based on Capabilities
+*** Types of AI Based on Capabilities
+
 1. Narrow AI (Weak AI)
 Narrow AI is designed and trained on a specific task or a narrow range tasks. These Narrow AI systems are designed and trained for a purpose. These Narrow systems performs their designated tasks but mainly lack in the ability to generalize tasks.
 
@@ -32,7 +33,7 @@ General AI refers to AI systems that have human intelligence and abilities to pe
 
 While General AI remains a theoretical concept, researchers aim to develop AI systems that can perform any intellectual task a human can. It requires the machine to have consciousness, self-awareness, and the ability to make independent decisions, which is not yet achievable.
 
-Potential Applications:
+*** Potential Applications:
 
 Robots that can learn new skills and adapt to unforeseen challenges in real-time.
 AI systems that could autonomously diagnose and solve complex medical issues across various specializations.
