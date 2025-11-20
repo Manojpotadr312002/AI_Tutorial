@@ -9,6 +9,7 @@ Type 1: Based on Capabilities of AI
 Narrow AI
 General AI
 Super AI
+
 Type 2: Based on the Functionality of AI
 
 Reactive Machines
