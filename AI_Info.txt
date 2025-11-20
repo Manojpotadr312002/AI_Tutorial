@@ -35,10 +35,11 @@ General AI refers to AI systems that have human intelligence and abilities to pe
 
 While General AI remains a theoretical concept, researchers aim to develop AI systems that can perform any intellectual task a human can. It requires the machine to have consciousness, self-awareness, and the ability to make independent decisions, which is not yet achievable.
 
-*** Potential Applications:
+Potential Applications:
 
 Robots that can learn new skills and adapt to unforeseen challenges in real-time.
 AI systems that could autonomously diagnose and solve complex medical issues across various specializations.
+
 3. Superintelligence (Super AI)
 Super AI surpasses intelligence of human in solving-problem, creativity, and overall abilities. Super AI develops emotions, desires, need and beliefs of their own. They are able to make decisions of their own and solve problem of its own. Such AI would not only be able to complete tasks better than humans but also understand and interpret emotions and respond in a human-like manner.
 
