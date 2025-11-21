@@ -45,8 +45,8 @@ Super AI surpasses intelligence of human in solving-problem, creativity, and ove
 While Super AI remains speculative, it could revolutionize industries, scientific research, and problem-solving, possibly leading to unprecedented advancements. However, it also raises ethical concerns regarding control and regulation.
 
 
-Types of AI Based on Functionalities
-Last Updated : 04 Jul, 2025
+***Types of AI Based on Functionalities
+
 Artificial Intelligence (AI) has become central to applications in healthcare, finance, education and many more. However, AI operates differently at various levels based on how it processes data, learns and responds. Classifying AI by its functionalities helps us better understand its current capabilities and its potential evolution.
 
 This article explores the four main types of AI based on functionalities.
