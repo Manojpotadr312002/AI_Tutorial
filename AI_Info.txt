@@ -74,8 +74,8 @@ Data-Driven Decisions: Uses stored data from previous interactions to improve ac
 Model Training: Relies on large volumes of data for supervised or unsupervised learning.
 Short-Term Memory: Retains recent data for a limited duration, does not have a persistent sense of learning like humans.
 Improved Adaptability: Performs better in real-world tasks such as driving, speech recognition or fraud detection.
-Examples:
 
+Examples:
 Self-Driving Cars: Vehicles use past sensor data and historical driving patterns to make real-time decisions.
 Image Recognition Systems: Trained on large datasets to classify objects more accurately based on previous learning.
 Large Language Models: Can recall recent prompts during a conversation and use past dialogue to generate responses. They don’t retain memory across sessions unless explicitly designed with long-term memory modules.
