@@ -23,7 +23,6 @@ Self-Aware AI
 Narrow AI is designed and trained on a specific task or a narrow range tasks. These Narrow AI systems are designed and trained for a purpose. These Narrow systems performs their designated tasks but mainly lack in the ability to generalize tasks.
 
 Examples:
-
 Voice assistants like Siri or Alexa that understand specific commands.
 Facial recognition software used in security systems.
 Recommendation engines used by platforms like Netflix or Amazon.
