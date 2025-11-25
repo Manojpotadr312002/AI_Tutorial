@@ -64,6 +64,7 @@ Examples:
 IBM Deep Blue: The chess-playing system that defeated Garry Kasparov in 1997 could calculate possible moves and counters but lacked learning ability.
 Google AlphaGo: Known for defeating top Go players, it calculates optimal moves in real time without learning across games. It remains reactive during each match.
 Simple Chatbots: Some early customer service bots that respond to predefined inputs with scripted answers.
+
 2. Limited Memory AI
 Limited Memory AI builds upon reactive systems by using the ability to learn from historical data. It can use past observations to make more informed decisions, making them suitable for environments where conditions change over time.
 
