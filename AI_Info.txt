@@ -92,6 +92,7 @@ Examples:
 
 Sophia the Robot (Hanson Robotics): Although mostly scripted, Sophia demonstrates simulated emotional expressions and responses in conversations, replicating human interaction.
 MIT’s Kismet: One of the early experiments in social robotics that responded to human voice tones and facial expressions with corresponding emotional displays.
+
 4. Self-Aware AI: Theoretical Consciousness
 Self-Aware AI is the most advanced and hypothetical form of artificial intelligence. These systems have consciousness and the ability to reflect on their own mental states. They could make autonomous decisions based on internal motivations or beliefs and would be a fundamental leap in machine intelligence.
 
