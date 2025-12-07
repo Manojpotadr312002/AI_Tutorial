@@ -87,8 +87,8 @@ Key Characteristics:
 Emotional Intelligence: Designed to interpret emotional cues such as tone, expressions and gestures.
 Cognitive Modeling: Capable of human reasoning or predicting how others might think or feel.
 Interactive Reasoning: Engages in more dynamic decision-making by factoring in beliefs, goals and intentions of others.
-Examples:
 
+Examples:
 Sophia the Robot (Hanson Robotics): Although mostly scripted, Sophia demonstrates simulated emotional expressions and responses in conversations, replicating human interaction.
 MIT’s Kismet: One of the early experiments in social robotics that responded to human voice tones and facial expressions with corresponding emotional displays.
 
