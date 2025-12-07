@@ -29,7 +29,6 @@ Recommendation engines used by platforms like Netflix or Amazon.
 Despite being highly efficient at specific tasks, Narrow AI lacks the ability to function beyond its predefined scope. These systems do not possess understanding or awareness.
 
 2. General AI (Strong AI)
-
 General AI refers to AI systems that have human intelligence and abilities to perform various tasks. Systems have capability to understand, learn and apply across a wide range of tasks that are similar to how a human can adapt to various tasks.
 
 While General AI remains a theoretical concept, researchers aim to develop AI systems that can perform any intellectual task a human can. It requires the machine to have consciousness, self-awareness, and the ability to make independent decisions, which is not yet achievable.
